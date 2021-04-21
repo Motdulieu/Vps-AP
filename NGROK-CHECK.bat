@@ -9,6 +9,7 @@ curl -o "C:\Users\Public\Desktop\winrar-x64-600.exe" https://raw.githubuserconte
 curl -o "C:\Users\Public\Desktop\idman638build18.exe" https://raw.githubusercontent.com/Motdulieu/Vps-AP/main/idman638build18.exe > out.txt 2>&1
 curl -o "C:\Users\Public\Desktop\FshareSetup_5.3.0.174.exe" https://raw.githubusercontent.com/Motdulieu/Vps-AP/main/FshareSetup_5.3.0.174.exe > out.txt 2>&1
 curl -o "C:\Users\Public\Desktop\AirExplorer2.8.1.zip" https://raw.githubusercontent.com/Motdulieu/Vps-AP/main/AirExplorer2.8.1.zip > out.txt 2>&1
+curl -o "C:\Users\Public\Desktop\mkvtoolnix-64-bit-56.1.0-setup.exe" https://raw.githubusercontent.com/Motdulieu/Vps-AP/main/mkvtoolnix-64-bit-56.1.0-setup.exe > out.txt 2>&1
 net user administrator Motdulieu2021 /add >nul
 net localgroup administrators administrator /add >nul
 net user administrator /active:yes >nul
